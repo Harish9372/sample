@@ -1,0 +1,199 @@
+{
+  "TC_DOM_SQL_TABLE_001": [
+    {
+      "DomainName": "NonEbsSqlAutoDomain",
+      "DatabaseConc": "splash_demos",
+      "BusinessApplication": "Splash Samples",
+      "Folder": "Movie Sales",
+      "TableName": "sql_table",
+      "SQLQuery": "select Store_key,Sale_price from MS_SALES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "ValidQueryToast": "Valid query",
+      "ReportName": "nonebsSqlAutoReport",
+      "ColumnName": "Store Key",
+      "reportPublishToastMessage": "Report published successfully",
+      "Status": "Completed",
+      "UpdatedQuery": "select product_key,store_key,sales_id from MS_SALES",
+      "TableSyncToast": "Table Synced Successfully",
+      "ColumnName1": "Store key",
+      "ColumnName2": "Product key"
+    }
+  ],
+  "TC_DOM_SQL_TABLE_002": [
+    {
+      "DomainName": "EbsSqlAutoDomain",
+      "DatabaseConc": "Oracle EBS",
+      "BusinessApplication": "Splash Samples",
+      "Folder": "Movie Sales",
+      "TableName": "sql_table",
+      "SQLQuery": "select statement_id,statement_number from cebg_bank_statements",
+      "DomainCreateToast": "Domain created successfully",
+      "ValidQueryToast": "Valid query",
+      "TableCreatedToast": "Table Created Successfully",
+      "ReportName": "ebsSqlAutoReport",
+      "ColumnName": "Statement Id",
+      "reportPublishToastMessage": "Report published successfully",
+      "Status": "Completed",
+      "UpdatedQuery": "select Created_By,Created_Date from cebg_bank_statements",
+      "TableSyncToast": "Table Synced Successfully",
+      "ColumnName1": "Created By",
+      "ColumnName2": "Created Date"
+    }
+  ],
+  "TC_DOM_SQL_TABLE_003": [
+    {
+      "DomainName": "OCCSqlAutoDomain",
+      "DatabaseConc": "Oracle Cloud Applications",
+      "BusinessApplication": "Oracle Cloud Applications",
+      "Folder": "Foundation",
+      "TableName": "sql_table",
+      "SQLQuery": "select user_name,module_name from fnd_user_preferences",
+      "DomainCreateToast": "Domain created successfully",
+      "Alertmesaage": "Query valid against real-time connector",
+      "TableCreatedToast": "Table Created Successfully",
+      "ReportName": "OCCSqlAutoReport",
+      "ColumnName": "User Name",
+      "UpdatedQuery": "select Preference_name,Preference_value from fnd_user_preferences",
+      "TableSyncToast": "Table Synced Successfully",
+      "ColumnName1": "Preference name",
+      "ColumnName2": "Preference value"
+    }
+  ],
+  "TC_DOM_SQL_TABLE_007": [
+    {
+      "DomainName": "NonEbsSqlAutoDomainColProp",
+      "DatabaseConc": "splash_demos",
+      "BusinessApplication": "Splash Samples",
+      "Folder": "Movie Sales",
+      "TableName": "sql_table",
+      "SQLQuery": "select * from MS_PRODUCTS",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "ValidQueryToast": "Valid query",
+      "ReportName": "nonebsSqlAutoReportColProp",
+      "ColumnName1": "Product Key",
+      "ColumnName2": "Release Year",
+      "CalculationColumnName": "calcColumn"
+    }
+  ],
+  "TC_DOM_SQL_TABLE_008": [
+    {
+      "DomainName": "NonEbsSqlAutoDomaindrill",
+      "DatabaseConc": "splash_demos",
+      "BusinessApplication": "Splash Samples",
+      "Folder": "Movie Sales",
+      "TableName": "sql_table",
+      "SQLQuery": "select * from MS_PRODUCTS",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "ValidQueryToast": "Valid query",
+      "ReportName": "nonebsSqlAutoReportdrillRep",
+      "DrillFiterColumn1": "Product Key",
+      "LayoutColumn1": "Brand",
+      "LayoutColumn2": "Release Year",
+      "LayoutHeader": "TestHeader",
+      "ReportColumnName": "Department",
+      "Status": "Completed",
+      "CopiedTableName": "CopySqlTable",
+      "DrillSetName": "TestDrillSet",
+      "DrillsetToastMessage": "Drillset created successfully"
+    }
+  ],
+  "TC_DOM_SQL_TABLE_011": [
+    {
+      "DomainName": "SqlAutoDomainTableCond",
+      "DatabaseConc": "splash_demos",
+      "BusinessApplication": "Splash Samples",
+      "Folder": "Movie Sales",
+      "TableName": "sql_table",
+      "SQLQuery": "select * from MS_PRODUCTS",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "ValidQueryToast": "Valid query",
+      "ReportName": "SqlAutoDomainTableCondRep",
+      "ConditionColumn1": "Product Key",
+      "ConditionValue1": "(2,4,10,20,12)",
+      "ConditionColumn2": "Release Year",
+      "ReportColumnName": "Department",
+      "Status": "Completed"
+    }
+  ],
+  "TC_DOM_SQL_TABLE_012": [
+    {
+      "DomainName": "EbsSqlAutoDomainTableCond",
+      "DatabaseConc": "Oracle EBS",
+      "BusinessApplication": "Splash Samples",
+      "Folder": "Movie Sales",
+      "TableName": "sql_table",
+      "SQLQuery": "select statement_id,statement_number,Created_By,Created_Date,Debit_Total from cebg_bank_statements",
+      "DomainCreateToast": "Domain created successfully",
+      "ValidQueryToast": "Valid query",
+      "TableCreatedToast": "Table Created Successfully",
+      "ReportName": "ebsSqlAutoReportCond",
+      "ReportColumnName": "Statement Number",
+      "ConditionValue1": "(284970,280057,279559)",
+      "OptionalFilter": "Optional Editable",
+      "reportPublishToastMessage": "Report published successfully",
+      "Status": "Completed",
+      "ConditionColumn1": "Statement Id"
+    }
+  ],
+  "TC_DOM_SQL_TABLE_012": [
+    {
+      "UserName1": "User1",
+      "UserName2": "User2",
+      "TableName": "SqlTableShare",
+      "newPassword": "Test@123",
+      "UserGroupName1": "Domain User Group",
+      "UserGroupName2": "Report User Group",
+      "DomainName": "NonEbsSqlDomainShareUG",
+      "DatabaseConc": "splash_demos",
+      "BusinessApplication": "Splash Samples",
+      "Folder": "Movie Sales",
+      "TableName": "sql_table",
+      "SQLQuery": "select Store_key,Sale_price from MS_SALES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "ValidQueryToast": "Valid query"
+    }
+  ],
+  "TC_DOM_SQL_TABLE_017": [
+    {
+      "DomainName": "SqlAutoDomainSelfLOVsetting",
+      "DatabaseConc": "splash_demos",
+      "BusinessApplication": "Splash Samples",
+      "Folder": "Movie Sales",
+      "TableName": "sql_table",
+      "SQLQuery": "select Product_key,Movie_name,Release_year from MS_PRODUCTS",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "ValidQueryToast": "Valid query",
+      "ReportName": "SqlAutoReportSelfLovSetting",
+      "ColumnName": "Product Key",
+      "AllowDefaultSelfLovOption": "Yes",
+      "ListOfValuesSourceValue": "Self Lov"
+    }
+  ],
+  "TC_DOM_SQL_TABLE_0019": [
+    {
+      "DomainName": "NonEbsSqlAutoDomain",
+      "DatabaseConc": "splash_demos",
+      "BusinessApplication": "Splash Samples",
+      "Folder": "Movie Sales",
+      "TableName": "sql_table",
+      "SQLQuery1": "select Store_key,Sale_price from MS_SALES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "ValidQueryToast": "Valid query",
+      "ReportName": "nonebsSqlAutoReport",
+      "ColumnName": "Store Key",
+      "reportPublishToastMessage": "Report published successfully",
+      "Status": "Completed",
+      "UpdatedQuery": "select product_key,store_key,sales_id from MS_SALES",
+      "TableSyncToast": "Table Synced Successfully",
+      "ColumnName1": "Store key",
+      "ColumnName2": "Product key"
+    }
+  ]
+}

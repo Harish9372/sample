@@ -1,0 +1,23 @@
+{
+  "TC_DOM_EditDomain_001": [
+    {
+      "DatabaseConc": "Oracle Ebs",
+      "DomainName": "Automation_Ebs_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": "Movie Sales",
+      "DomainCreatedToast": "Domain created successfully",
+      "DomainUpdatedToast": "Domain Updated Successfully"
+    }
+  ],
+  "TC_DOM_EditDomain_013": [
+    {
+      "DatabaseConc": "Oracle Ebs",
+      "DomainName": "Automation_Ebs_",
+      "MaterializedView": "CSD_DC_FREQ_SUM_MV",
+      "Synonym": "XXEIS_OBJECTS_INFO_TBL",
+      "Table": "XXPERSONS",
+      "View": "XXAR_CUSTOMERS_V",
+      "TableCreatedToast": "Table Created Successfully"
+    }
+  ]
+}

@@ -1,0 +1,949 @@
+{
+  "TC_DOM_CR_01": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123"
+    }
+  ],
+  "TC_DOM_CR_02": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123"
+    }
+  ],
+
+  "TC_DOM_CR_03": [
+    {
+      "UserName": "Automation_User_",
+      "connector": "Oracle Ebs",
+      "DomainName": "NonEbsSqlAutoDomain",
+      "DatabaseConc": "Oracle Ebs",
+      "BusinessApplication": "Splash Samples",
+      "Folder": "Movie Sales",
+      "TableName": "sql_table",
+      "SQLQuery": "select * from MS_SALES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "ValidQueryToast": "Valid query",
+      "newPassword": "Test@123"
+    }
+  ],
+  "TC_DOM_CR_04": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DomainName": "NonEbsSqlAutoDomain",
+      "DatabaseConc": "Oracle Ebs",
+      "BusinessApplication": "Splash Samples",
+      "Folder": "Movie Sales",
+      "TableName": "sql_table",
+      "SQLQuery": "select * from MS_SALES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "ValidQueryToast": "Valid query",
+      "newPassword": "Test@123"
+    }
+  ],
+  "TC_DOM_CR_05": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "ObjectTypes1": "Materialized Views",
+      "ObjectTypes2": "Synonyms",
+      "ObjectTypes3": "Tables",
+      "ObjectTypes4": "Views",
+      "DomainName": "Automation_Ebs_",
+      "SqlTableName":"Sql_TableName_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "MaterializedTableName": "MSC_PHUB_SUPPLIERS_MV",
+      "Synonyms": "ACK",
+      "Views": "CEBG_BANK_STATEMENTS",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "SQLQuery": "select statement_id,statement_number from cebg_bank_statements",
+      "ValidQueryToast": "Valid query",
+      "newPassword": "Test@123"
+    }
+  ],
+  "TC_DOM_CR_07": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "splash demos",
+      "DatabaseConc": "splash_demos",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_NonEbs_",
+      "SqlTableName":"Sql_TableName_",
+      "CsvTable": "CsvTable_",
+      "SourceTableName": "SourceTableName_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "MS_SALES",
+      "MaterializedTableName": "Cn Sca Rule Cond Vals Mv",
+      "Synonyms": "ACK",
+      "Views": "Ads_Bi_Hrv_Activity",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "SQLQuery":"select * from MS_SALES",
+      "ValidQueryToast": "Valid query",
+      "newPassword": "Test@123"
+    }
+  ],
+  "TC_DOM_CR_06": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "ObjectTypes1": "Materialized Views",
+      "ObjectTypes2": "Synonyms",
+      "ObjectTypes3": "Tables",
+      "ObjectTypes4": "Views",
+      "DomainName": "Automation_Ebs_",
+      "SqlTableName":"Sql_TableName_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "MaterializedTableName": "MSC_PHUB_SUPPLIERS_MV",
+      "Synonyms": "ACK",
+      "Views": "CEBG_BANK_STATEMENTS",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "SQLQuery": "select * from UK_EMPLOYEES",
+      "ValidQueryToast": "Valid query",
+      "newPassword": "Test@123",
+      "connectionName": "Connector EBS",
+      "hostName": "192.168.0.245",
+      "sid": "QAEBS",
+      "connectionUser": "apps",
+      "connectionPassword": "apps",
+      "portNumber": "1526",
+      "system": "Oracle E-Business Suite",
+      "userName": "testUser",
+      "UserPassword": "test123"
+    }
+  ],
+  "TC_DOM_CR_08": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "splash_demos",
+      "DatabaseConc": "splash_demos",
+      "ObjectTypes": "ALL",
+      "ObjectTypes1": "Materialized Views",
+      "ObjectTypes2": "Synonyms",
+      "ObjectTypes3": "Tables",
+      "ObjectTypes4": "Views",
+      "DomainName": "Automation_NonEbs_",
+      "SqlTableName":"Sql_TableName_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "MS_SALES",
+      "MaterializedTableName": "MSC_PHUB_SUPPLIERS_MV",
+      "Synonyms": "ACK",
+      "Views": "MS_SALES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "SQLQuery": "select * from MS_SALES",
+      "ValidQueryToast": "Valid query",
+      "newPassword": "Test@123",
+      "connectionName": "demos connector",
+      "hostName": "192.168.8.209",
+      "sid": "qa036",
+      "connectionUser": "XXSPLASH_618",
+      "connectionPassword": "XXSPLASH_618",
+      "portNumber": "1521",
+      "system": "None",
+      "userName": "testUser",
+      "UserPassword": "test123"
+    }
+  ],
+  "TC_DOM_CR_09": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Cloud",
+      "DatabaseConc": "Oracle Cloud",
+      "ObjectTypes": "ALL",
+      "ObjectTypes1": "Materialized Views",
+      "ObjectTypes2": "Synonyms",
+      "ObjectTypes3": "Tables",
+      "ObjectTypes4": "Views",
+      "DomainName": "Automation_Ebs_",
+      "SqlTableName":"Sql_TableName_",
+      "BusinessApplication": "Oracle Cloud Applications",
+      "Folder": "Expenses",
+      "TableName": "fnd_user_preferences",
+      "Schema": "FUSION",
+      "MaterializedTableName": "MSC_PHUB_SUPPLIERS_MV",
+      "Synonyms": "ACK",
+      "Views": "CEBG_BANK_STATEMENTS",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "SQLQuery": "select user_name,module_name from fnd_user_preferences",
+      "ValidQueryToast": "Valid query",
+      "newPassword": "Test@123",
+      "connectionName": "Cloud Oracle",
+      "connectionUser": "CASEY.BROWN",
+      "connectionPassword": "v#Z4^I9w",
+      "Alertmesaage": "Query valid against real-time connector",
+      "url": "https://fa-eqne-dev5-saasfademo1.ds-fa.oraclepdemos.com/xmlpserver/services",
+      "userName": "testUser",
+      "UserPassword": "test123"
+    }
+  ],
+  "TC_DOM_CR_10": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Cloud",
+      "DatabaseConc": "Oracle Cloud",
+      "ObjectTypes": "ALL",
+      "ObjectTypes1": "Materialized Views",
+      "ObjectTypes2": "Synonyms",
+      "ObjectTypes3": "Tables",
+      "ObjectTypes4": "Views",
+      "DomainName": "Automation_Ebs_",
+      "SqlTableName":"Sql_TableName_",
+      "BusinessApplication": "Oracle Cloud Applications",
+      "Folder": "Expenses",
+      "TableName": "fnd_user_preferences",
+      "Schema": "FUSION",
+      "MaterializedTableName": "MSC_PHUB_SUPPLIERS_MV",
+      "Synonyms": "ACK",
+      "Views": "CEBG_BANK_STATEMENTS",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "SQLQuery": "select user_name,module_name from fnd_user_preferences",
+      "ValidQueryToast": "Valid query",
+      "newPassword": "Test@123",
+      "connectionName": "Cloud Oracle",
+      "connectionUser": "CASEY.BROWN",
+      "connectionPassword": "u5V^3#UG",
+      "Alertmesaage": "Query valid against real-time connector",
+      "url": "https://fa-eqne-dev5-saasfademo1.ds-fa.oraclepdemos.com/xmlpserver/services",
+      "userName": "testUser",
+      "UserPassword": "test123"
+    }
+  ],
+  "TC_DOM_CR_11": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123"
+    }
+  ],
+  "TC_DOM_CR_12": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_01",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123"
+    }
+  ],"TC_DOM_CR_13": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_",
+      "DomainNameSpl": "$#%@&*^",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123"
+    }
+  ],
+  "TC_DOM_CR_14": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Test",
+      "DomainNameCode": "Automation_Test",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123"
+    }
+  ],
+  "TC_DOM_CR_15": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle EBS",
+      "DatabaseConc": "Oracle Cloud",
+      "ObjectTypes": "ALL",
+      "ObjectTypes1": "Materialized Views",
+      "ObjectTypes2": "Synonyms",
+      "ObjectTypes3": "Tables",
+      "ObjectTypes4": "Views",
+      "DomainName": "Automation_Ebs_",
+      "SqlTableName":"Sql_TableName_",
+      "BusinessApplication": "Oracle Cloud Applications",
+      "Folder": "Expenses",
+      "TableName": "fnd_user_preferences",
+      "Schema": "FUSION",
+      "MaterializedTableName": "MSC_PHUB_SUPPLIERS_MV",
+      "Synonyms": "ACK",
+      "Views": "CEBG_BANK_STATEMENTS",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "SQLQuery": "select user_name,module_name from fnd_user_preferences",
+      "ValidQueryToast": "Valid query",
+      "newPassword": "Test@123",
+      "connectionName": "Oracle EBS",
+      "hostName": "192.168.0.245",
+      "sid": "QAEBS",
+      "connectionUser": "apps",
+      "connectionPassword": "apps",
+      "portNumber": "1526",
+      "system": "Oracle E-Business Suite",
+      "userName": "testUser",
+      "UserPassword": "test123"
+    }
+  ],
+  "TC_DOM_CR_16": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_01",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "BusinessApplicationRefresh":"Business applications refreshed successfully"
+    }
+  ],
+  "TC_DOM_CR_17": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_01",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "BusinessApplicationRefresh":"Business applications refreshed successfully"
+    }
+  ],
+  "TC_DOM_CR_18": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle EBS",
+      "DatabaseConc": "Oracle EBS",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_",
+      "DomainNameSpl": "$#%@&*^",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "ValidateFolderToast":"Please select business application folder",
+      "newPassword": "Test@123"
+    }
+  ],
+  "TC_DOM_CR_19": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle EBS",
+      "DatabaseConc": "Oracle EBS",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_",
+      "DomainNameSpl": "$#%@&*^",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "ValidateFolderToast":"Please select business application folder",
+      "newPassword": "Test@123"
+    }
+  ],"TC_DOM_CR_20": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle EBS",
+      "DatabaseConc": "Oracle EBS",
+      "DomainName": "Automation_Ebs_Test",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales "
+    }
+  ],
+  "TC_DOM_CR_21": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123"
+    }
+  ],
+  "TC_DOM_CR_22": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123"
+    }
+  ],"TC_DOM_CR_23": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "TableNameSearch": "CEFG_BANK_STATEMENT",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123"
+    }
+  ],"TC_DOM_CR_24": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "DatabaseCon2": "splash_demos",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "TableName1": "MS_SALES",
+      "TableNameSearch": "CEFG_BANK_STATEMENT",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123"
+    }
+  ],
+  "TC_DOM_CR_25": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "TableNameSearch": "CEFG_BANK_STATEMENT",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123"
+    }
+  ],"TC_DOM_CR_26": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "ObjectTypes": "ALL",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "TableNameSearch": "CEFG_BANK_STATEMENT",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes1": "Materialized Views",
+      "ObjectTypes2": "Synonyms",
+      "Synonyms": "ACK"
+    }
+  ],"TC_DOM_CR_27": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "Synonyms": "ACK",
+      "MaterializedTableName": "MSC_PHUB_SUPPLIERS_MV",
+      "Views": "CEBG_BANK_STATEMENTS",
+      "TableNameSearch": "CEFG_BANK_STATEMENT",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL",
+      "ObjectTypes1": "Materialized Views",
+      "ObjectTypes2": "Synonyms",
+      "ObjectTypes3": "Tables",
+      "ObjectTypes4": "Views",
+      "TableType": "TABLE",
+      "TableType1": "MATERIALIZED VIEW",
+      "TableType2": "SYNONYM",
+      "TableType3": "VIEW"
+    }
+  ],"TC_DOM_CR_28": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc": "Oracle Ebs",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "Synonyms": "ACK",
+      "MaterializedTableName": "MSC_PHUB_SUPPLIERS_MV",
+      "Views": "CEBG_BANK_STATEMENTS",
+      "TableNameSearch": "CEFG_BANK_STATEMENT",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL",
+      "ObjectTypes1": "Materialized Views",
+      "ObjectTypes2": "Synonyms",
+      "ObjectTypes3": "Tables",
+      "ObjectTypes4": "Views",
+      "TableType": "TABLE",
+      "TableType1": "MATERIALIZED VIEW",
+      "TableType2": "SYNONYM",
+      "TableType3": "VIEW"
+    }
+  ],"TC_DOM_CR_29": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc1": "Oracle Ebs",
+      "DatabaseConc2": "demos connector",
+      "DatabaseConc3": "Cloud Oracle",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "TableName1": "MS_SALES",
+      "Synonyms": "ACK",
+      "MaterializedTableName": "MSC_PHUB_SUPPLIERS_MV",
+      "Views": "CEBG_BANK_STATEMENTS",
+      "TableNameSearch": "CEFG_BANK_STATEMENT",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL",
+      "ObjectTypes1": "Materialized Views",
+      "ObjectTypes2": "Synonyms",
+      "ObjectTypes3": "Tables",
+      "ObjectTypes4": "Views",
+      "TableName2": "fnd_user_preferences",
+      "Schema": "FUSION"
+    }
+  ],"TC_DOM_CR_30": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc1": "Oracle Ebs",
+      "DatabaseConc2": "demos connector",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "TableName1": "MS_SALES",
+      "Views": "CEBG_BANK_STATEMENTS",
+      "TableNameSearch": "CEFG_BANK_STATEMENT",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL",
+      "SourceData": "1989"
+    }
+  ],"TC_DOM_CR_31": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc1": "Oracle Ebs",
+      "DatabaseConc2": "demos connector",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "TableName1": "MS_SALES",
+      "Views": "CEBG_BANK_STATEMENTS",
+      "TableNameSearch": "CEFG_BANK_STATEMENT",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL",
+      "SourceData": "1989"
+    }
+  ],"TC_DOM_CR_32": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc1": "Oracle Ebs",
+      "DatabaseConc2": "demos connector",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "TableName1": "MS_SALES",
+      "Views": "CEBG_BANK_STATEMENTS",
+      "TableNameSearch": "CEFG_BANK_STATEMENT",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL",
+      "SourceData": "1989"
+    }
+  ],"TC_DOM_CR_33": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc1": "Oracle Ebs",
+      "DatabaseConc2": "demos connector",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "S",
+      "TableName1": "STATE",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL",
+      "SourceData": "1989",
+      "DatabaseConc3": "Cloud Oracle11",
+      "TableName2": "PA",
+      "Schema": "FUSION"
+    }
+  ],"TC_DOM_CR_34": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc1": "Oracle Ebs",
+      "DatabaseConc2": "demos connector",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "MS_SALES",
+      "TableName2": "UK_EMPLOYEES",
+      "TableName3": "fnd_user",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table added successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL",
+      "SourceData": "1989",
+      "DatabaseConc3": "Cloud Oracle",
+      "Schema": "FUSION"
+    }
+  ],"TC_DOM_CR_35": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc1": "Oracle Ebs",
+      "DatabaseConc2": "splash_demos",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "MS_SALES",
+      "TableName2": "UK_EMPLOYEES",
+      "TableName3": "fnd_user",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table added successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL",
+      "SourceData": "1989",
+      "DatabaseConc3": "Cloud Oracle",
+      "Schema": "FUSION"
+    }
+  ],"TC_DOM_CR_36": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc1": "Oracle Ebs",
+      "DatabaseConc2": "splash_demos",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "MS_SALES",
+      "TableName2": "UK_EMPLOYEES",
+      "TableName3": "fnd_user",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table added successfully",
+      "DataBaseConnectorMessage": "Database Connector has more than 500 objects. Please use search to show objects",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL",
+      "SourceData": "1989",
+      "DatabaseConc3": "Cloud Oracle",
+      "Schema": "FUSION"
+    }
+  ],"TC_DOM_CR_37": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "connector": "Oracle Ebs",
+      "DatabaseConc1": "Oracle Ebs",
+      "DatabaseConc2": "splash_demos",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "MS_SALES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL"
+    }
+  ],"TC_DOM_CR_38": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "DatabaseConc2": "splash_demos",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "MS_SALES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL"
+    }
+  ],"TC_DOM_CR_39": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "DatabaseConc2": "splash_demos",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "MS_SALES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL"
+    }
+  ],"TC_DOM_CR_40": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "DatabaseConc2": "splash_demos",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "MS_SALES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL"
+    }
+  ],"TC_DOM_CR_41": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "DatabaseConc2": "splash_demos",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "MS_SALES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL"
+    }
+  ],"TC_DOM_CR_42": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "DatabaseConc2": "splash_demos",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "MS_SALES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL"
+    }
+  ],"TC_DOM_CR_43": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "DatabaseConc2": "splash_demos",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "MS_SALES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL"
+    }
+  ],"TC_DOM_CR_45": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "DatabaseCon1": "Oracle Ebs",
+      "DatabaseCon2": "demos connector",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "MS_SALES",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL",
+      "ObjectTypes1":"",
+      "ObjectTypes2":"",
+      "TableName2": "UK_EMPLOYEES",
+      "ObjectTypes3": "Tables",
+      "ObjectTypes4": "Views"
+
+    }
+  ],"TC_DOM_CR_48": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "DatabaseCon1": "Oracle Ebs",
+      "DatabaseCon2": "Oracle Ebs",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UKG_",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table added successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL",
+      "TableName2": "Ukg open shifts",
+      "ObjectTypes3": "Tables",
+      "ObjectTypes4": "Views"
+
+    }
+  ],"TC_DOM_CR_49": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "1",
+      "DatabaseCon1": "Oracle Ebs",
+      "DatabaseCon2": "Oracle Ebs",
+      "DomainName": "Automation_Ebs_",
+      "DomainDec": "DomainDec_",
+      "BusinessApplication": "Splash Samples",
+      "Folder": " Movie Sales ",
+      "TableName": "UK_EMPLOYEES",
+      "TableName1": "Uk Employees1",
+      "TableName2": "Uk Employees2",
+      "DomainCreatedToast": "Domain created successfully",
+      "TableCreatedToast": "Table Created Successfully",
+      "newPassword": "Test@123",
+      "ObjectTypes": "ALL"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+Movie Name,Brand,Release Year,Store Name,Sold Year,Unit Price,Unit Price Avg Diff,Sale Units,City
+Hidden Figures,Big Studios,2016,Store No. 1,2016,0.94,0.11,2,New York
+Passengers ,Big Studios,2016,Store No. 1,2016,0.94,0.11,1,New York
+Passengers ,Big Studios,2016,Store No. 1,2016,0.94,0.11,1,New York
+Passengers ,Big Studios,2016,Store No. 1,2016,0.94,0.11,4,New York
+The Lost City Of Z,Big Studios,2016,Store No. 1,2016,0.94,0.11,5,New York
+The Lost City Of Z,Big Studios,2016,Store No. 1,2016,0.94,0.11,2,New York
+Rogue One,Big Studios,2016,Store No. 1,2016,0.94,0.11,1,New York
+The Founder,MKF Studios,2016,Store No. 1,2016,0.94,0.11,2,New York
+The Magnificient Seven ,MKF Studios,2016,Store No. 1,2016,1,0.05,4,New York
+Fantastic Beasts And Where To Find Them ,MKF Studios,2016,Store No. 1,2016,0.94,0.11,1,New York
+The Magnificient Seven ,MKF Studios,2016,Store No. 1,2016,1,0.05,1,New York
+Arrival ,Parabuster Inc.,2016,Store No. 1,2016,0.94,0.11,4,New York
+The Accountant ,Parabuster Inc.,2016,Store No. 1,2016,0.94,0.11,4,New York
+Suicide Squad,Parabuster Inc.,2016,Store No. 1,2016,0.94,0.11,1,New York
+X-Men: Apocalypse,Parabuster Inc.,2016,Store No. 1,2016,0.94,0.11,1,New York
+The Infiltrator ,Parabuster Inc.,2016,Store No. 1,2016,0.94,0.11,1,New York
+Suicide Squad,Parabuster Inc.,2016,Store No. 1,2016,0.94,0.11,2,New York
+The Conjuring 2,Wolf,2016,Store No. 1,2016,0.94,0.11,2,New York
+The Accountant ,Parabuster Inc.,2016,Store No. 10,2016,0.94,0.11,1,Dallas
+The Conjuring 2,Wolf,2016,Store No. 10,2016,0.94,0.11,2,Dallas
+Shin Godzilla,Big Studios,2016,Store No. 11,2016,1.18,-0.13,1,Cincinnati
+Shin Godzilla,Big Studios,2016,Store No. 11,2016,1.18,-0.12,2,Cincinnati
+Sing,Big Studios,2016,Store No. 11,2016,1.18,-0.12,2,Cincinnati
+Rogue One,Big Studios,2016,Store No. 11,2016,1.18,-0.13,1,Cincinnati
+The Founder,MKF Studios,2016,Store No. 11,2016,1.18,-0.12,2,Cincinnati
+Miss Peregrine's Home For Peculiar Children,MKF Studios,2016,Store No. 11,2016,1.18,-0.12,4,Cincinnati
+The Secret Life Of Pets,MKF Studios,2016,Store No. 11,2016,1.18,-0.12,2,Cincinnati
+X-Men: Apocalypse,Parabuster Inc.,2016,Store No. 11,2016,1.18,-0.12,2,Cincinnati
+Star Trek Beyond,Parabuster Inc.,2016,Store No. 11,2016,1.18,-0.12,2,Cincinnati
+The Infiltrator ,Parabuster Inc.,2016,Store No. 11,2016,1.18,-0.13,5,Cincinnati
+Suicide Squad,Parabuster Inc.,2016,Store No. 11,2016,1.18,-0.13,1,Cincinnati
+The Infiltrator ,Parabuster Inc.,2016,Store No. 11,2016,1.18,-0.13,1,Cincinnati
+La La Land,Wolf,2016,Store No. 11,2016,1.18,-0.12,2,Cincinnati
+Captain America: Civil War,MKF Studios,2016,Store No. 12,2016,0.94,0.11,1,Minneapolis
+Message From The King,Parabuster Inc.,2016,Store No. 12,2016,0.94,0.11,2,Minneapolis
+Trolls,Wolf,2016,Store No. 12,2016,0.94,0.11,2,Minneapolis
+The Lost City Of Z,Big Studios,2016,Store No. 13,2016,1.08,-0.03,3,Louisville
+Rogue One,Big Studios,2016,Store No. 13,2016,1.08,-0.03,5,Louisville
+Rogue One,Big Studios,2016,Store No. 13,2016,1.08,-0.03,3,Louisville
+Message From The King,Parabuster Inc.,2016,Store No. 13,2016,1.08,-0.03,2,Louisville
+The Accountant ,Parabuster Inc.,2016,Store No. 13,2016,1.08,-0.03,2,Louisville
+Deadpool,Parabuster Inc.,2016,Store No. 13,2016,1.08,-0.03,5,Louisville
+Star Trek Beyond,Parabuster Inc.,2016,Store No. 13,2016,1.08,-0.03,1,Louisville
+La La Land,Wolf,2016,Store No. 13,2016,1.08,-0.03,2,Louisville
+La La Land,Wolf,2016,Store No. 13,2016,1.08,-0.03,2,Louisville
+Trolls,Wolf,2016,Store No. 13,2016,1.08,-0.03,2,Louisville
+Me Before You,Wolf,2016,Store No. 13,2016,1.08,-0.03,3,Louisville
+The Lost City Of Z,Big Studios,2016,Store No. 14,2016,1.01,0.04,1,Phoenix
+The Secret Life Of Pets,MKF Studios,2016,Store No. 14,2016,1.01,0.04,1,Phoenix
+The Magnificient Seven ,MKF Studios,2016,Store No. 14,2016,1.07,-0.03,2,Phoenix
+X-Men: Apocalypse,Parabuster Inc.,2016,Store No. 14,2016,1.01,0.04,2,Phoenix
+X-Men: Apocalypse,Parabuster Inc.,2016,Store No. 14,2016,1.01,0.04,1,Phoenix
+Star Trek Beyond,Parabuster Inc.,2016,Store No. 15,2016,0.94,0.11,2,Denver
+Batman V Superman: Dawn Of Justice,Parabuster Inc.,2016,Store No. 15,2016,0.94,0.11,1,Denver
+Hidden Figures,Big Studios,2016,Store No. 16,2016,0.94,0.11,4,St. Louis
+Rogue One,Big Studios,2016,Store No. 16,2016,0.94,0.11,1,St. Louis
+Moonlight,Big Studios,2016,Store No. 16,2016,0.94,0.11,2,St. Louis
+Arrival ,Parabuster Inc.,2016,Store No. 16,2016,0.94,0.11,1,St. Louis
+Message From The King,Parabuster Inc.,2016,Store No. 16,2016,0.94,0.11,1,St. Louis
+X-Men: Apocalypse,Parabuster Inc.,2016,Store No. 16,2016,0.94,0.11,3,St. Louis
+Collateral Beauty ,MKF Studios,2016,Store No. 17,2016,1.41,-0.36,4,Washington
+Collateral Beauty ,MKF Studios,2016,Store No. 17,2016,1.41,-0.36,4,Washington
+The Magnificient Seven ,MKF Studios,2016,Store No. 17,2016,1.5,-0.45,5,Washington
+Arrival ,Parabuster Inc.,2016,Store No. 17,2016,1.41,-0.36,5,Washington
+The Accountant ,Parabuster Inc.,2016,Store No. 17,2016,1.41,-0.36,2,Washington
+X-Men: Apocalypse,Parabuster Inc.,2016,Store No. 17,2016,1.41,-0.36,1,Washington
+Message From The King,Parabuster Inc.,2016,Store No. 17,2016,1.41,-0.36,2,Washington
+Hell Or High Water,Big Studios,2016,Store No. 18,2016,1.22,-0.17,2,Miami
+Fantastic Beasts And Where To Find Them ,MKF Studios,2016,Store No. 18,2016,1.22,-0.17,2,Miami
+The Accountant ,Parabuster Inc.,2016,Store No. 18,2016,1.22,-0.17,3,Miami
+The Accountant ,Parabuster Inc.,2016,Store No. 18,2016,1.22,-0.17,1,Miami
+Suicide Squad,Parabuster Inc.,2016,Store No. 18,2016,1.22,-0.17,3,Miami
+The Infiltrator ,Parabuster Inc.,2016,Store No. 18,2016,1.22,-0.17,2,Miami
+Moana,Parabuster Inc.,2016,Store No. 19,2016,0.94,0.11,4,Boston
+Doctor Strange ,Parabuster Inc.,2016,Store No. 19,2016,0.94,0.11,1,Boston
+The Secret Life Of Pets,MKF Studios,2016,Store No. 2,2016,0.94,0.11,2,Chicago
+The Conjuring 2,Wolf,2016,Store No. 2,2016,0.94,0.11,2,Chicago
+Miss Peregrine's Home For Peculiar Children,MKF Studios,2016,Store No. 20,2016,0.89,0.16,1,Nashville
+Fantastic Beasts And Where To Find Them ,MKF Studios,2016,Store No. 3,2016,1.76,-0.71,5,Atlanta
+Miss Peregrine's Home For Peculiar Children,MKF Studios,2016,Store No. 3,2016,1.76,-0.71,1,Atlanta
+Doctor Strange ,Parabuster Inc.,2016,Store No. 3,2016,1.76,-0.71,5,Atlanta
+The Infiltrator ,Parabuster Inc.,2016,Store No. 3,2016,1.76,-0.71,3,Atlanta
+X-Men: Apocalypse,Parabuster Inc.,2016,Store No. 3,2016,1.76,-0.71,2,Atlanta
+The Infiltrator ,Parabuster Inc.,2016,Store No. 3,2016,1.76,-0.71,3,Atlanta
+Trolls,Wolf,2016,Store No. 3,2016,1.76,-0.71,1,Atlanta
+Star Trek Beyond,Parabuster Inc.,2016,Store No. 4,2016,0.78,0.27,3,Los Angeles
+The Accountant ,Parabuster Inc.,2016,Store No. 4,2016,0.78,0.27,1,Los Angeles
+Rogue One,Big Studios,2016,Store No. 5,2016,0.94,0.11,1,San Francisco
+Sing,Big Studios,2016,Store No. 5,2016,0.94,0.11,3,San Francisco
+Fantastic Beasts And Where To Find Them ,MKF Studios,2016,Store No. 5,2016,0.94,0.11,2,San Francisco
+Fantastic Beasts And Where To Find Them ,MKF Studios,2016,Store No. 5,2016,0.94,0.11,5,San Francisco
+The Infiltrator ,Parabuster Inc.,2016,Store No. 5,2016,0.94,0.11,3,San Francisco
+The Accountant ,Parabuster Inc.,2016,Store No. 5,2016,0.94,0.11,5,San Francisco
+Moana,Parabuster Inc.,2016,Store No. 5,2016,0.94,0.11,5,San Francisco
+Message From The King,Parabuster Inc.,2016,Store No. 5,2016,0.94,0.11,2,San Francisco
+Deadpool,Parabuster Inc.,2016,Store No. 5,2016,0.94,0.11,4,San Francisco
+La La Land,Wolf,2016,Store No. 5,2016,0.94,0.11,4,San Francisco
+Passengers ,Big Studios,2016,Store No. 6,2016,0.71,0.34,1,Philadelphia
+Captain America: Civil War,MKF Studios,2016,Store No. 6,2016,0.71,0.34,1,Philadelphia
+Arrival ,Parabuster Inc.,2016,Store No. 6,2016,0.7,0.34,2,Philadelphia
+Doctor Strange ,Parabuster Inc.,2016,Store No. 6,2016,0.71,0.34,5,Philadelphia
+Arrival ,Parabuster Inc.,2016,Store No. 6,2016,0.71,0.34,5,Philadelphia
+Passengers ,Big Studios,2016,Store No. 7,2016,0.94,0.11,2,Pittsburgh
+Rogue One,Big Studios,2016,Store No. 7,2016,0.94,0.11,5,Pittsburgh
+Passengers ,Big Studios,2016,Store No. 7,2016,0.94,0.11,4,Pittsburgh
+Captain America: Civil War,MKF Studios,2016,Store No. 7,2016,0.94,0.11,3,Pittsburgh
+The Secret Life Of Pets,MKF Studios,2016,Store No. 7,2016,0.94,0.11,2,Pittsburgh
+Doctor Strange ,Parabuster Inc.,2016,Store No. 7,2016,0.94,0.11,5,Pittsburgh
+Batman V Superman: Dawn Of Justice,Parabuster Inc.,2016,Store No. 7,2016,0.94,0.11,5,Pittsburgh
+Me Before You,Wolf,2016,Store No. 7,2016,0.94,0.11,4,Pittsburgh
+The Lost City Of Z,Big Studios,2016,Store No. 9,2016,0.94,0.11,2,Seattle
+The Lost City Of Z,Big Studios,2016,Store No. 9,2016,0.94,0.11,5,Seattle
+Sing,Big Studios,2016,Store No. 9,2016,0.94,0.11,2,Seattle
+Fantastic Beasts And Where To Find Them ,MKF Studios,2016,Store No. 9,2016,0.94,0.11,1,Seattle
+Collateral Beauty ,MKF Studios,2016,Store No. 9,2016,0.94,0.11,4,Seattle
+The Infiltrator ,Parabuster Inc.,2016,Store No. 9,2016,0.94,0.11,1,Seattle
+X-Men: Apocalypse,Parabuster Inc.,2016,Store No. 9,2016,0.94,0.11,4,Seattle
+The Accountant ,Parabuster Inc.,2016,Store No. 9,2016,0.94,0.11,4,Seattle

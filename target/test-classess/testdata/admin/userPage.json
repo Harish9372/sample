@@ -1,0 +1,10 @@
+{
+  "createUserTest": [
+    {
+      "UserName": "Automation_User_",
+      "NoOfUsers": "3",
+      "connector": "Oracle Ebs"
+    }
+  ],
+
+}

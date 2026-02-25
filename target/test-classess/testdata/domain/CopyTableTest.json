@@ -1,0 +1,36 @@
+{
+  "TC_DOM_CT_01": [
+    {
+      "UserName": "Automation_User_",
+      "NewPassword": "Test@123",
+      "DomainName": "AutoDomainTableCopy",
+      "DatabaseConc": "splash_demos",
+      "BusinessApplication": "Splash Samples",
+      "Folder": "Movie Sales",
+      "TableName": "MS_STORES",
+      "DomainCreatedToast": "Domain created successfully",
+      "ObjectTypes": "ALL",
+      "TableCreatedToast": "Table Created Successfully"
+    }
+  ],
+  "TC_DOM_CT_03": [
+    {
+      "UserName": "Automation_User_",
+      "NewPassword": "Test@123",
+      "UserGroupName": "Domain User Group",
+      "DomainName": "AutoDomainTableCopy",
+      "DatabaseConc": "splash_demos",
+      "BusinessApplication": "Splash Samples",
+      "Folder": "Movie Sales",
+      "TableName": "MS_STORES",
+      "DomainCreatedToast": "Domain created successfully",
+      "ObjectTypes": "ALL",
+      "TableCreatedToast": "Table Created Successfully"
+    }
+  ],
+  "TC_DOM_CT_06": [
+    {
+      "ValidationMessage": "New table name is required"
+    }
+  ]
+}

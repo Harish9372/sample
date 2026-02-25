@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Splashbi V6 Regression Suite" thread-count="5"
+	parallel="tests" verbose="2">
+
+	<listeners>
+		<listener
+			class-name="com.qa.sbi.listeners.ExtentReportListener" />
+
+	</listeners>
+
+	<test name="">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.qa.sbi.tests.AdminPageTest" />
+		</classes>
+	</test>
+
+	<test name="">
+		<parameter name="browser" value="chromium" />
+		<classes>
+			<class name="com.qa.sbi.tests.domains.SQLTableTest" />
+		</classes>
+	</test>
+
+
+	<!-- <test name="Open Cart Home Page Test_chromium">
+		<parameter name="browser" value="chromium" />
+		<classes>
+			<class name="com.qa.sbi.tests.LoginPageTest" />
+		</classes>
+	</test> -->
+
+	<!-- <test name="Open Cart Login Page Test_edge1">
+		<parameter name="browser" value="edge" />
+		<classes>
+			<class name="com.qa.sbi.tests.LoginPageTest" />
+		</classes>
+	</test> -->
+
+
+
+
+</suite>
